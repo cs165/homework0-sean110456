@@ -1,3 +1,12 @@
+html{
+  text-align: center;
+}
+h1{
+  display: inline-block;
+  background-color: aqua;
+}
 body {
+  background-color: skyblue;
   font-family: monospace;
+  
 }
